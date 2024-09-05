@@ -39,6 +39,7 @@ Output
 
 
 Enter the initial state (3x3 grid):
+
 3 4 8
 1 5 6
 7 2 0
